@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ondra
-- 👀 I’m interested in Microsoft technologies and I'm gonting to become a developer: :)
-- 🌱 I’m currently working on more complex understanding of ASP.NET Core
+- 👀 I’m interested in .NET :)
+- 🌱 I’m currently working on ASP.NET Core Content Managment System
 - 📫 You can contact me via my [Linkedin profile](https://www.linkedin.com/in/ond%C5%99ej-krej%C4%8D%C3%AD-0b4bb120b/)
 
 <!---
